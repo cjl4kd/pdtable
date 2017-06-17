@@ -15,3 +15,5 @@ Program Attributes:
 	- Searchable by atomic number
 	- Searchable by mass
 --------------------------------------------------	
+Using
+http://www.rsc.org/periodic-table
