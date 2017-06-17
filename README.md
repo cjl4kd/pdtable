@@ -17,3 +17,5 @@ Program Attributes:
 --------------------------------------------------	
 Using
 http://www.rsc.org/periodic-table
+Holly   is doing 01 - 059
+Cameron is doing 60 - 118
